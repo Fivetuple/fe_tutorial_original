@@ -2,7 +2,6 @@
 ## Exercises from Bogacz free energy tutorial
 ### Paul Moore paul.moore@cantab.net
 
-
 These exercises are from 
 
 >"A tutorial on the free-energy framework for modelling perception and learning", 
